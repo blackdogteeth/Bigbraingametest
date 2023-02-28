@@ -1178,3 +1178,23 @@ Recommended: 516.25
 [2023.02.28-21.34.05:237][306]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2023.02.28-21.34.07:235][388]LogContentBrowser: Attempting asset rename: NewFolder -> Dev
 [2023.02.28-21.34.07:236][388]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.28-21.35.00:994][700]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2023.02.28-21.35.01:006][700]LogConcert: [Success] Launched Unreal Multi-User Server
+[2023.02.28-21.35.01:050][701]LogConcert: [Success] Launched Unreal Multi-User Server
+[2023.02.28-21.35.03:035][768]LogConcert: Display: Server IT0000000002718 discovered.
+[2023.02.28-21.35.19:991][968]LogConcert: [Pending] Creating Session 'BigBrainsession'...
+[2023.02.28-21.35.19:991][968]LogConcert: [Pending] Creating Session 'BigBrainsession'... - Validating Workspace...
+[2023.02.28-21.35.20:022][969]LogConcert: [Pending] Creating Session 'BigBrainsession'... - Validating Workspace...
+[2023.02.28-21.35.20:503][972]LogConcert: [Pending] Creating Session 'BigBrainsession'... - Attempting Remote Connection...
+[2023.02.28-21.35.20:565][973]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: BigBrainsession
+[2023.02.28-21.35.20:603][973]SourceControl: Source control is disabled
+[2023.02.28-21.35.20:603][973]SourceControl: Source control is disabled
+[2023.02.28-21.35.20:663][973]LogConcert: Display: Initialized Concert session 'BigBrainsession' (Id: AA70E9D74E79FE6DB5F4F08F9018F821, Owner: andrewttaber).
+[2023.02.28-21.35.20:663][973]LogConcert: Display: Connecting to Concert session 'BigBrainsession' (Id: AA70E9D74E79FE6DB5F4F08F9018F821, Owner: andrewttaber).
+[2023.02.28-21.35.20:703][976]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: BigBrainsession
+[2023.02.28-21.35.20:705][976]LogConcert: Display: Connected to Concert session 'BigBrainsession' (Id: AA70E9D74E79FE6DB5F4F08F9018F821, Owner: andrewttaber).
+[2023.02.28-21.35.20:713][976]LogSlate: Took 0.005534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.28-21.35.20:726][977]LogConcert: Display: Synced activity '1' produced by endpoint '8B347D6944F4B484B49447A743172153': andrewttaber joined the session.
+[2023.02.28-21.35.20:771][983]LogConcert: [Success] Created Session 'BigBrainsession'
+[2023.02.28-21.35.20:813][984]LogConcert: [Success] Created Session 'BigBrainsession'
+[2023.02.28-21.35.23:823][294]LogDerivedDataCache: C:/Users/andrewttaber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.148 and deleted 0 files with total size 0 MiB. Scanned 11730 files in 11407 folders with total size 877 MiB.
