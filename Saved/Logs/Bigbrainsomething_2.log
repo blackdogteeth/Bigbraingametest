@@ -1198,3 +1198,33 @@ Recommended: 516.25
 [2023.02.28-21.35.20:771][983]LogConcert: [Success] Created Session 'BigBrainsession'
 [2023.02.28-21.35.20:813][984]LogConcert: [Success] Created Session 'BigBrainsession'
 [2023.02.28-21.35.23:823][294]LogDerivedDataCache: C:/Users/andrewttaber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.148 and deleted 0 files with total size 0 MiB. Scanned 11730 files in 11407 folders with total size 877 MiB.
+[2023.02.28-21.44.33:546][ 72]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.28-21.44.33:561][ 72]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.28-21.44.33:610][ 74]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.28-21.44.39:124][364]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.02.28-21.44.39:125][364]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.28-21.44.51:317][595]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.28-21.44.51:318][595]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.28-21.44.51:318][595]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.28-21.44.52:518][595]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.28-21.44.52:534][595]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.28-21.44.52:537][595]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.28-21.44.52:561][597]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.28-21.44.54:351][668]LogContentBrowser: Attempting asset rename: NewBlueprint -> yep
+[2023.02.28-21.44.54:378][668]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.007730 seconds
+[2023.02.28-21.44.54:380][668]LogSerialization: UsePackageTrailer: 'true'
+[2023.02.28-21.44.54:389][668]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.28-21.44.54:397][668]AssetCheck: New page: Asset Save: yep
+[2023.02.28-21.44.54:397][668]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Art/yep.yep
+[2023.02.28-21.44.54:419][670]LogConcert: Display: Synced activity '2' produced by endpoint '8B347D6944F4B484B49447A743172153': andrewttaber added package /Game/Art/yep.
+[2023.02.28-21.44.54:419][670]LogConcert: Display: Synced activity '3' produced by endpoint '8B347D6944F4B484B49447A743172153': andrewttaber locked /Game/Art/yep.
+[2023.02.28-21.45.00:196][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.02.28-21.45.00:199][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.28-21.45.00:280][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/yep" FILE="../../../../../Users/andrewttaber/Desktop/Github/Bigbraingametest/Content/Art/yep.uasset" SILENT=true
+[2023.02.28-21.45.00:282][977]LogSavePackage: Moving output files for package: /Game/Art/yep
+[2023.02.28-21.45.00:283][977]LogSavePackage: Moving '../../../../../Users/andrewttaber/Desktop/Github/Bigbraingametest/Saved/yep733A0F07480111DA0B0A0D96CD32B0D5.tmp' to '../../../../../Users/andrewttaber/Desktop/Github/Bigbraingametest/Content/Art/yep.uasset'
+[2023.02.28-21.45.00:291][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms
+[2023.02.28-21.45.00:298][977]AssetCheck: New page: Asset Save: yep
+[2023.02.28-21.45.00:298][977]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Art/yep.yep
+[2023.02.28-21.45.00:430][980]LogConcert: Display: Synced activity '4' produced by endpoint '8B347D6944F4B484B49447A743172153': andrewttaber saved package /Game/Art/yep.
+[2023.02.28-21.45.00:430][980]LogConcert: Display: Synced activity '5' produced by endpoint '8B347D6944F4B484B49447A743172153': andrewttaber unlocked /Game/Art/yep.
